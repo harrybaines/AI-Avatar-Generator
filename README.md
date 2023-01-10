@@ -5,7 +5,7 @@ AI avatar generator trained on my face using Dreambooth Stable Diffusion, deploy
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img src='/assets/me.png' width='350' />
+<img src='/assets/avatars.png' width='750' />
 
 ## Getting Started
 
