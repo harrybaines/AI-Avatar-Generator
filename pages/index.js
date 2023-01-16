@@ -42,7 +42,7 @@ const Home = () => {
     const response = await fetch('/api/generate', {
       method: 'POST',
       headers: {
-        'Content-Type': 'image/jpeg',
+        'Content-Type': 'image/jpeg'
       },
       body: JSON.stringify({ input }),
     });

@@ -1,6 +1,6 @@
 # AI Avatar Generator
 
-AI avatar generator trained on my face using Dreambooth Stable Diffusion, deployed on Railway.
+AI avatar generator trained on my face using Dreambooth Stable Diffusion, with the trained model hosted on Hugging Face, and the application UI deployed on Railway.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
